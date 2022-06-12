@@ -12,7 +12,7 @@
 ![Android Studio](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=black)&nbsp;
 
 
-### Contact
+### 🤝🏻 Contact
 <a href="mailto:khd1323@naver.com"><img src="https://img.shields.io/badge/-khd1323@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 <!--
 **virtus2/virtus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
