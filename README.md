@@ -11,6 +11,12 @@
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=unity&logoColor=grey)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=black)&nbsp;
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<a href="https://github.com/virtus2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virtus2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virtus2&layout=compact&langs_count=6&theme=dark"/>
+</a>
 
 ### 🤝🏻 Contact
 <a href="mailto:khd1323@naver.com"><img src="https://img.shields.io/badge/-khd1323@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
