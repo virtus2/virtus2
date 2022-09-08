@@ -1,6 +1,6 @@
 # Hi there 👋
-### 💬 About Me
-현재 알고리즘과 언리얼 엔진을 공부하고 있습니다.
+### 💬 About Me  
+현재 알고리즘과 언리얼 엔진을 공부하고 있습니다.  
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)&nbsp;
@@ -17,6 +17,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virtus2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virtus2&layout=compact&langs_count=6&theme=dark"/>
 </a>
+
+### ✍ Online Judge
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=upbo)](https://solved.ac/upbo)  
 
 ### 🤝🏻 Contact
 <a href="mailto:khd1323@naver.com"><img src="https://img.shields.io/badge/-khd1323@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
