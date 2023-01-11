@@ -1,8 +1,8 @@
 # Hi there 👋
 ### 💬 About Me  
-안녕하세요. 게임을 좋아하는 사람입니다.
-2016.03 ~ 2023.02 단국대학교 소프트웨어학과 전공
-2023.01 ~ 웹젠레드코어 클라이언트 프로그래머 인턴 
+안녕하세요. 게임을 좋아하는 사람입니다.  
+2016.03 ~ 2023.02 단국대학교 소프트웨어학과 전공  
+2023.01 ~ 웹젠레드코어 클라이언트 프로그래머 인턴  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvirtus2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ### 🛠 &nbsp;Tech Stack
