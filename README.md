@@ -31,7 +31,7 @@
 ### 🤝🏻 Contact
 <a href="mailto:khd1323@naver.com"><img src="https://img.shields.io/badge/-khd1323@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-khd1323-F7E600?style=flat&logo=kakaotalk&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/khd1234/"><img src="https://img.shields.io/badge/-khd1234-2D333C?style=flat&logo=steam&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/khd1234/"><img src="https://img.shields.io/badge/-Demon ';...;'-2D333C?style=flat&logo=steam&logoColor=white"/></a>
 
 <!--
 **virtus2/virtus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
