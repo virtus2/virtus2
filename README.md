@@ -2,7 +2,7 @@
 ### 💬 About Me  
 안녕하세요. 게임을 좋아하는 사람입니다.  
 2016.03 ~ 2023.02 단국대학교 소프트웨어학과 전공  
-2023.01 ~ 웹젠 레드코어 클라이언트 프로그래머 인턴  
+2023.01 ~ 웹젠 레드코어 클라이언트 프로그래머  
 소통은 언제든지 환영합니다!!  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvirtus2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
@@ -25,9 +25,13 @@
 ### ✍ Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=upbo)](https://solved.ac/upbo)  
 
+### 🎮 Steam Profile
+![khd](https://steam-stat.vercel.app/api?profileName=khd1234)   
+
 ### 🤝🏻 Contact
 <a href="mailto:khd1323@naver.com"><img src="https://img.shields.io/badge/-khd1323@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-khd1323-F7E600?style=flat&logo=kakaotalk&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/khd1234/"><img src="https://img.shields.io/badge/-khd1234-2D333C?style=flat&logo=steam&logoColor=white"/></a>
 
 <!--
 **virtus2/virtus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
