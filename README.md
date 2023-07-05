@@ -26,7 +26,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=upbo)](https://solved.ac/upbo)  
 
 ### 🎮 Steam Profile
-![khd](https://steam-stat.vercel.app/api?profileName=khd1234)   
+[![khd](https://steam-stat.vercel.app/api?profileName=khd1234)](https://steamcommunity.com/id/khd1234)
 
 ### 🤝🏻 Contact
 <a href="mailto:khd1323@naver.com"><img src="https://img.shields.io/badge/-khd1323@naver.com-03C75A?style=flat&logo=naver&logoColor=white"/></a>
