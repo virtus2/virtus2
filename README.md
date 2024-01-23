@@ -23,8 +23,9 @@
 </a>
 
 ### ✍ Online Judge
-[![Leetcode Stats](https://leetcard.jacoblin.cool/virtus2?theme=light&height=170&width=457)](https://leetcode.com/virtus2)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=upbo)](https://solved.ac/upbo)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/virtus2?theme=light)](https://leetcode.com/virtus2)  
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=upbo)](https://solved.ac/upbo)
 
 ### 🎮 Steam Profile
 [![khd](https://steam-stat.vercel.app/api?profileName=khd1234)](https://steamcommunity.com/id/khd1234)
