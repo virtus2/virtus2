@@ -24,6 +24,7 @@
 
 ### ✍ Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=upbo)](https://solved.ac/upbo)  
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=virtus2)
 
 ### 🎮 Steam Profile
 [![khd](https://steam-stat.vercel.app/api?profileName=khd1234)](https://steamcommunity.com/id/khd1234)
